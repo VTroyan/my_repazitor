@@ -53,4 +53,4 @@
 # "Меня зовут\n"
 # "Виталик!\n"
 # file.close()
-print("hfjhfggjh")
+print("Виталик")
